@@ -1,0 +1,11 @@
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\PayFactory\obj\Debug\netcoreapp2.0\PayFactory.csprojAssemblyReference.cache
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\PayFactory\obj\Debug\netcoreapp2.0\PayFactory.csproj.CoreCompileInputs.cache
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\PayFactory\obj\Debug\netcoreapp2.0\PayFactory.AssemblyInfoInputs.cache
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\PayFactory\obj\Debug\netcoreapp2.0\PayFactory.AssemblyInfo.cs
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\PayFactory\bin\Debug\netcoreapp2.0\PayFactory.deps.json
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\PayFactory\bin\Debug\netcoreapp2.0\PayFactory.runtimeconfig.json
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\PayFactory\bin\Debug\netcoreapp2.0\PayFactory.runtimeconfig.dev.json
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\PayFactory\bin\Debug\netcoreapp2.0\PayFactory.dll
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\PayFactory\bin\Debug\netcoreapp2.0\PayFactory.pdb
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\PayFactory\obj\Debug\netcoreapp2.0\PayFactory.dll
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\PayFactory\obj\Debug\netcoreapp2.0\PayFactory.pdb

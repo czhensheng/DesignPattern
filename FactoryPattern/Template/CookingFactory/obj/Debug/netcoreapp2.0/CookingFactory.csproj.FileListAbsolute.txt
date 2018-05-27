@@ -1,0 +1,11 @@
+D:\Code\Study\DesignModel\FactoryPattern\Template\CookingFactory\obj\Debug\netcoreapp2.0\CookingFactory.csprojAssemblyReference.cache
+D:\Code\Study\DesignModel\FactoryPattern\Template\CookingFactory\obj\Debug\netcoreapp2.0\CookingFactory.csproj.CoreCompileInputs.cache
+D:\Code\Study\DesignModel\FactoryPattern\Template\CookingFactory\obj\Debug\netcoreapp2.0\CookingFactory.AssemblyInfoInputs.cache
+D:\Code\Study\DesignModel\FactoryPattern\Template\CookingFactory\obj\Debug\netcoreapp2.0\CookingFactory.AssemblyInfo.cs
+D:\Code\Study\DesignModel\FactoryPattern\Template\CookingFactory\bin\Debug\netcoreapp2.0\CookingFactory.deps.json
+D:\Code\Study\DesignModel\FactoryPattern\Template\CookingFactory\bin\Debug\netcoreapp2.0\CookingFactory.runtimeconfig.json
+D:\Code\Study\DesignModel\FactoryPattern\Template\CookingFactory\bin\Debug\netcoreapp2.0\CookingFactory.runtimeconfig.dev.json
+D:\Code\Study\DesignModel\FactoryPattern\Template\CookingFactory\bin\Debug\netcoreapp2.0\CookingFactory.dll
+D:\Code\Study\DesignModel\FactoryPattern\Template\CookingFactory\bin\Debug\netcoreapp2.0\CookingFactory.pdb
+D:\Code\Study\DesignModel\FactoryPattern\Template\CookingFactory\obj\Debug\netcoreapp2.0\CookingFactory.dll
+D:\Code\Study\DesignModel\FactoryPattern\Template\CookingFactory\obj\Debug\netcoreapp2.0\CookingFactory.pdb

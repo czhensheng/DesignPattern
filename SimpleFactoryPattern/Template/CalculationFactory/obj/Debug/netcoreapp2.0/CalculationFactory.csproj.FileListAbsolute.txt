@@ -1,0 +1,11 @@
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\CalculationFactory\bin\Debug\netcoreapp2.0\CalculationFactory.deps.json
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\CalculationFactory\bin\Debug\netcoreapp2.0\CalculationFactory.runtimeconfig.json
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\CalculationFactory\bin\Debug\netcoreapp2.0\CalculationFactory.runtimeconfig.dev.json
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\CalculationFactory\bin\Debug\netcoreapp2.0\CalculationFactory.dll
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\CalculationFactory\bin\Debug\netcoreapp2.0\CalculationFactory.pdb
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\CalculationFactory\obj\Debug\netcoreapp2.0\CalculationFactory.csprojAssemblyReference.cache
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\CalculationFactory\obj\Debug\netcoreapp2.0\CalculationFactory.csproj.CoreCompileInputs.cache
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\CalculationFactory\obj\Debug\netcoreapp2.0\CalculationFactory.AssemblyInfoInputs.cache
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\CalculationFactory\obj\Debug\netcoreapp2.0\CalculationFactory.AssemblyInfo.cs
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\CalculationFactory\obj\Debug\netcoreapp2.0\CalculationFactory.dll
+D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\CalculationFactory\obj\Debug\netcoreapp2.0\CalculationFactory.pdb
