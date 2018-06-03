@@ -1,0 +1,57 @@
+适配器模式是通过一个类的接口转换成客户希望的另一个接口，使原本由于接口不兼容而不能在一起工作的那些类可以在一起工作
+适配器从结构上可以分为类适配器和对象适配器，其中类适配器使用继承关系来对类进行适配，而对象适配器是使用对象引用的方法来进行适配
+ITarget：Client所使用的与特定领域相关的接口。 适配目标的接口
+
+Client：与符合Target接口的对象协调的类。 调用的客户端
+
+Adaptee：需要适配的类接口。 Power 需要适配的类
+
+Adapter：适配器，负责Adaptee的接口与Target接口进行适配。  适配后的类
+
+//对象适配器结构
+public interface ITarget{
+    void ITargetMethod();
+}
+
+public class Adaptee{
+    public void AdapteeMethod(){
+
+    }
+}
+
+public Adapter:ITarget{
+    Adaptee _adaptee;
+    public Adapter(Adaptee adaptee){
+        _adaptee=adaptee;
+    }
+    public ITargetMethod(){
+        _adaptee.AdapteeMethod();
+
+    }
+}
+    main(){
+    ITarget t=new Adapter(new Adaptee() );
+    t.ITargetMethod();
+    }
+
+
+//类适配器结构
+public interface ITarget{
+    void ITargetMethod();
+}
+
+public abstract class Adaptee{
+    public void AdapteeMethod(){
+
+    }
+}
+
+public Adapter:Adaptee,ITarget{
+    public ITargetMethod(){
+        this.AdapteeMethod();
+    }
+}
+    main(){
+    ITarget t=new Adapter();
+    t.ITargetMethod();
+    }
