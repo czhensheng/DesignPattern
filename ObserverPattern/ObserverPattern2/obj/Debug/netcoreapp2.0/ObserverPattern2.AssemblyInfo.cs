@@ -7,10 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CalculationFactory")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ObserverPattern2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("CalculationFactory")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CalculationFactory")]
+[assembly: System.Reflection.AssemblyProductAttribute("ObserverPattern2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ObserverPattern2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,3 +9,14 @@ D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\CalculationFactory\obj\D
 D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\CalculationFactory\obj\Debug\netcoreapp2.0\CalculationFactory.AssemblyInfo.cs
 D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\CalculationFactory\obj\Debug\netcoreapp2.0\CalculationFactory.dll
 D:\Code\Study\DesignModel\SimpleFactoryPattern\Template\CalculationFactory\obj\Debug\netcoreapp2.0\CalculationFactory.pdb
+F:\Person\Project\language\DesignPattern\SimpleFactoryPattern\Template\CalculationFactory\bin\Debug\netcoreapp2.0\CalculationFactory.deps.json
+F:\Person\Project\language\DesignPattern\SimpleFactoryPattern\Template\CalculationFactory\bin\Debug\netcoreapp2.0\CalculationFactory.runtimeconfig.json
+F:\Person\Project\language\DesignPattern\SimpleFactoryPattern\Template\CalculationFactory\bin\Debug\netcoreapp2.0\CalculationFactory.runtimeconfig.dev.json
+F:\Person\Project\language\DesignPattern\SimpleFactoryPattern\Template\CalculationFactory\bin\Debug\netcoreapp2.0\CalculationFactory.dll
+F:\Person\Project\language\DesignPattern\SimpleFactoryPattern\Template\CalculationFactory\bin\Debug\netcoreapp2.0\CalculationFactory.pdb
+F:\Person\Project\language\DesignPattern\SimpleFactoryPattern\Template\CalculationFactory\obj\Debug\netcoreapp2.0\CalculationFactory.csprojAssemblyReference.cache
+F:\Person\Project\language\DesignPattern\SimpleFactoryPattern\Template\CalculationFactory\obj\Debug\netcoreapp2.0\CalculationFactory.csproj.CoreCompileInputs.cache
+F:\Person\Project\language\DesignPattern\SimpleFactoryPattern\Template\CalculationFactory\obj\Debug\netcoreapp2.0\CalculationFactory.AssemblyInfoInputs.cache
+F:\Person\Project\language\DesignPattern\SimpleFactoryPattern\Template\CalculationFactory\obj\Debug\netcoreapp2.0\CalculationFactory.AssemblyInfo.cs
+F:\Person\Project\language\DesignPattern\SimpleFactoryPattern\Template\CalculationFactory\obj\Debug\netcoreapp2.0\CalculationFactory.dll
+F:\Person\Project\language\DesignPattern\SimpleFactoryPattern\Template\CalculationFactory\obj\Debug\netcoreapp2.0\CalculationFactory.pdb

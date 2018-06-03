@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Person\\Project\\language\\DesignPattern\\SimpleFactoryPattern\\Template\\CalculationFactory\\CalculationFactory.csproj",
-      "projectName": "CalculationFactory",
-      "projectPath": "F:\\Person\\Project\\language\\DesignPattern\\SimpleFactoryPattern\\Template\\CalculationFactory\\CalculationFactory.csproj",
+      "projectUniqueName": "F:\\Person\\Project\\language\\DesignPattern\\ObserverPattern\\ObserverPattern2\\ObserverPattern2.csproj",
+      "projectName": "ObserverPattern2",
+      "projectPath": "F:\\Person\\Project\\language\\DesignPattern\\ObserverPattern\\ObserverPattern2\\ObserverPattern2.csproj",
       "packagesPath": "C:\\Users\\czs\\.nuget\\packages\\",
-      "outputPath": "F:\\Person\\Project\\language\\DesignPattern\\SimpleFactoryPattern\\Template\\CalculationFactory\\obj\\",
+      "outputPath": "F:\\Person\\Project\\language\\DesignPattern\\ObserverPattern\\ObserverPattern2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
