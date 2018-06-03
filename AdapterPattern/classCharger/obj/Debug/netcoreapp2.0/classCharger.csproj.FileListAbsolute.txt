@@ -1,0 +1,11 @@
+D:\Code\Study\DesignModel\AdapterPattern\classCharger\bin\Debug\netcoreapp2.0\classCharger.deps.json
+D:\Code\Study\DesignModel\AdapterPattern\classCharger\bin\Debug\netcoreapp2.0\classCharger.runtimeconfig.json
+D:\Code\Study\DesignModel\AdapterPattern\classCharger\bin\Debug\netcoreapp2.0\classCharger.runtimeconfig.dev.json
+D:\Code\Study\DesignModel\AdapterPattern\classCharger\bin\Debug\netcoreapp2.0\classCharger.dll
+D:\Code\Study\DesignModel\AdapterPattern\classCharger\bin\Debug\netcoreapp2.0\classCharger.pdb
+D:\Code\Study\DesignModel\AdapterPattern\classCharger\obj\Debug\netcoreapp2.0\classCharger.csprojAssemblyReference.cache
+D:\Code\Study\DesignModel\AdapterPattern\classCharger\obj\Debug\netcoreapp2.0\classCharger.csproj.CoreCompileInputs.cache
+D:\Code\Study\DesignModel\AdapterPattern\classCharger\obj\Debug\netcoreapp2.0\classCharger.AssemblyInfoInputs.cache
+D:\Code\Study\DesignModel\AdapterPattern\classCharger\obj\Debug\netcoreapp2.0\classCharger.AssemblyInfo.cs
+D:\Code\Study\DesignModel\AdapterPattern\classCharger\obj\Debug\netcoreapp2.0\classCharger.dll
+D:\Code\Study\DesignModel\AdapterPattern\classCharger\obj\Debug\netcoreapp2.0\classCharger.pdb
